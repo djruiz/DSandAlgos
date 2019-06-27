@@ -1,0 +1,13 @@
+﻿Daniel Ruiz
+lab12
+C343
+5/29/2019
+
+I used my starter code from hw03 to set up my model view and controller.  I then used a pre
+written bubble sort function and set changes and notified observers whenever a swap occurs during 
+the sort
+
+To graphically represent these swaps I drew two rectangles at the same x coordinate.  I offset them
+so that the new value being inserted into x is drawn as white and the remaining space covered in black
+
+This gave my sort a smooth appearance.
